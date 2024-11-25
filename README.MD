@@ -1,4 +1,4 @@
-# Implementation for a 6-gene coupled repressilator
+# Implementation for a repressilator with memory
 
 #### Current: Toggle Switch and Repressilator - Python implementation
 
