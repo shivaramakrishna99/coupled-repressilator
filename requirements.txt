@@ -3,3 +3,4 @@ colorcet
 numpy
 scipy
 matplotlib
+streamlit
