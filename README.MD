@@ -17,7 +17,7 @@ The optorepressilator is a novel four-node optogenetic network that combines the
 ## Contents
 
 - `code/`: Python scripts for simulating optorepressilator dynamics
-- `figures/`: Scripts to reproduce key figures from the paper
+- `figures/`: Key figures showcasing the optorepressilator behavior under various conditions
 
 ## Implementations
 
